@@ -1,6 +1,9 @@
+//
+// Created by kenza on 09/12/2023.
+//
 
-#ifndef PROJECT_BIS_S3_CELL_H
-#define PROJECT_BIS_S3_CELL_H
+#ifndef PROJETC_S3_FINAL_CELL_H
+#define PROJETC_S3_FINAL_CELL_H
 
 typedef struct s_cell
 {
@@ -11,4 +14,4 @@ typedef struct s_cell
 
 t_cell *create_cell(int, int);
 
-#endif //PROJECT_BIS_S3_CELL_H
+#endif //PROJETC_S3_FINAL_CELL_H
